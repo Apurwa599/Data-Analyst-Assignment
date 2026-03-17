@@ -19,3 +19,17 @@ Attendance rate, Engagement level, Conversion impact
 
 Objective:
 Understand whether webinars effectively convert leads into enrolled students.
+
+### Dataset C – Pricing A/B Test
+Performed statistical analysis to compare Variant A vs Variant B pricing strategy.
+Hypothesis Testing:
+
+Null Hypothesis (H0): Both variants perform equally.
+
+Alternative Hypothesis (H1): Variant B improves conversion.
+
+Result:
+Since p-value < 0.05, we reject the null hypothesis.
+
+Conclusion:
+Variant B significantly improves conversion rate compared to Variant A.
