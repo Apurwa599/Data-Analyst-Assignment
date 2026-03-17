@@ -6,13 +6,7 @@ The analysis includes funnel conversion analysis, webinar performance evaluation
 ### Dataset A – Funnel Analysis
 Analyzed the student acquisition funnel to understand conversion across stages such as:
 
-Visits
-
-Leads
-
-Qualified Leads
-
-Enrollments
+Visits, Leads, Qualified Leads, Enrollments
 
 Goal:
 Identify where the largest drop-offs occur in the funnel and suggest improvements to increase conversion.
