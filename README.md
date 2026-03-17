@@ -10,3 +10,12 @@ Visits, Leads, Qualified Leads, Enrollments
 
 Goal:
 Identify where the largest drop-offs occur in the funnel and suggest improvements to increase conversion.
+
+### Dataset B – Webinar Analysis
+Examined webinar performance and engagement.
+Key focus areas:
+
+Attendance rate, Engagement level, Conversion impact
+
+Objective:
+Understand whether webinars effectively convert leads into enrolled students.
