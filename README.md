@@ -13,6 +13,7 @@ Identify where the largest drop-offs occur in the funnel and suggest improvement
 
 ### Dataset B – Webinar Analysis
 Examined webinar performance and engagement.
+
 Key focus areas:
 
 Attendance rate, Engagement level, Conversion impact
@@ -22,6 +23,7 @@ Understand whether webinars effectively convert leads into enrolled students.
 
 ### Dataset C – Pricing A/B Test
 Performed statistical analysis to compare Variant A vs Variant B pricing strategy.
+
 Hypothesis Testing:
 
 Null Hypothesis (H0): Both variants perform equally.
